@@ -38,7 +38,7 @@ textarea {
 }
 
 /* Vars */
-:root {
+/* :root {
   --primary: hsl(0, 0%, 100%);
   --secondary: hsl(0, 0%, 98%);
   --border: hsl(0, 0%, 86%);
@@ -54,8 +54,8 @@ textarea {
 
   --header-height: 44px;
   --nav-height: 44px;
-}
-:root.darkTheme {
+} */
+:root{
   --primary: hsl(0, 0%, 0%);
   --secondary: hsl(0, 0%, 2%);
   --border: hsl(0, 0%, 15%);
