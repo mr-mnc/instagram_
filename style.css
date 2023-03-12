@@ -65,6 +65,12 @@ textarea {
 
   --text-dark: hsl(0, 0%, 98%);
   --text-light: hsl(0, 0%, 60%);
+  
+  --like: hsl(355, 82%, 61%);
+  --link: hsl(204, 100%, 48%);
+
+  --header-height: 44px;
+  --nav-height: 44px;
 }
 
 /* -------------------------------------------------- */
